@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-**Developer at Holonym**
+**Developer at [Holonym](https://holonym.id/)**
 
 ---
 
