@@ -34,11 +34,6 @@ Here are some ideas to get you started:
 
 > [VS Code](https://code.visualstudio.com/) | [Git](https://git-scm.com/) | [Github](https://github.com/)
 
-
-**Organizational & communication tools**
-
-> [Notion](https://www.notion.so/) | [Discord](https://discord.com/)
-
 **OS**
 
 > [Linux](https://www.linuxfoundation.org/) | [macOS](https://www.apple.com/macos/)
