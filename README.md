@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 **Web technologies**
 
-> [JavaScript](https://www.javascript.com/) | [Node.js](https://nodejs.org/) | [React](https://reactjs.org/) | [Next.js](https://nextjs.org/) | [AWS](https://aws.amazon.com/) | [Terraform](https://www.terraform.io/)
+> [TypeScript](https://www.typescriptlang.org/) | [Node.js](https://nodejs.org/) | [React](https://reactjs.org/) | [Next.js](https://nextjs.org/) | [AWS](https://aws.amazon.com/) | [Terraform](https://www.terraform.io/)
 
 **Blockchain-related technologies**
 
