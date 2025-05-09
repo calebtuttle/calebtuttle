@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
 
 **Developer at [Holonym](https://holonym.id/)**
+-->
+
+**Developer at [Holonym](https://human.tech/)**
